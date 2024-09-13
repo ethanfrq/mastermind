@@ -19,7 +19,7 @@ Bienvenue dans le jeu **Mastermind** ! 🧠 Ce jeu classique de code secret est 
   - `requests` (pour récupérer l'adresse IP)
 
 Installez les modules requis en utilisant la commande suivante :
-    ```bash
+    ```
 pip install requests
     ```
 
