@@ -19,7 +19,9 @@ Bienvenue dans le jeu **Mastermind** ! 🧠 Ce jeu classique de code secret est 
   - `requests` (pour récupérer l'adresse IP)
 
 Installez les modules requis en utilisant la commande suivante :
-
+    ```bash
+pip install requests
+    ```
 
 ## 🎮 Comment Jouer
 
@@ -64,10 +66,6 @@ Le jeu génère des journaux pour divers événements :
 - Sélections de couleurs
 - Nombre de tentatives
 - Résultats du jeu (victoire/perte)
-
-## 🖼️ Exemple de Capture d'Écran
-
-![Interface du Jeu Mastermind](./screenshot.png)
 
 ## 📜 Licence
 
