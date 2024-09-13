@@ -55,7 +55,7 @@ Ce script configure la base de données SQLite et crée la table `users` pour st
 
 Exécutez ce script une fois avant de jouer.
 
-### 2. Script du Jeu (`mastermind_game.py`)
+### 2. Script du Jeu (`mast.py`)
 
 Ce script gère la logique du jeu, l'interface utilisateur et enregistre les données des joueurs dans la base de données après la fin du jeu.
 
